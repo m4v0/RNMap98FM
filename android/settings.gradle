@@ -1,0 +1,3 @@
+rootProject.name = 'RNMaps98FM'
+
+include ':app'
