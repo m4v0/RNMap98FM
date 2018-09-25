@@ -7,7 +7,7 @@ Basicamente mostrar pontos da cidade de Natal-RN, usando a tecnologia Google Map
 usuário poderá clicar no marcador e obter informações do ponto especifico.
 
 #Requisitos
-1. Aplicação conter apenas duas telas: 
+1. Aplicação deverá conter apenas duas telas: 
    > 1 - Mapa com alguns pontos da cidade, e 
    > 2 - Informações básicas sobre o local;
 
