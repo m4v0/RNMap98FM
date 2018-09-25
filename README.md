@@ -3,7 +3,7 @@
 # Objetivo
 O desafio consiste em desenvolver uma aplicação mobile em React Native (na última versão disponível, a 0.57 ​https://facebook.github.io/react-native/​).
 
-Basicamente mostrar pontos da cidade de Natal-RN, usando a tecnologia Google Maps, assim o usuário visualizará no mapa alguns pontos turiscos, comercial e laser da cidade, identificados com os marcadores (Markers), assim o 
+Basicamente mostrar pontos da cidade de Natal-RN, usando a tecnologia Google Maps, assim o usuário visualizará no mapa alguns pontos turísticos, comercial e laser da cidade, identificados com os marcadores (Markers), assim o 
 usuário poderá clicar no marcador e obter informações do ponto especifico.
 
 #Requisitos
