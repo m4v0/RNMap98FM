@@ -1,5 +1,7 @@
 # Desafio 98FMJP - Dial Natal
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/34343415/46052618-9d293e80-c115-11e8-99f9-944717da6cb7.gif)
+
 # Objetivo
 O desafio consiste em desenvolver uma aplicação mobile em React Native (na última versão disponível, a 0.57 ​https://facebook.github.io/react-native/​).
 
